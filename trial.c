@@ -18,7 +18,7 @@ void main()
 
     printf("Integers divisible by 5 are \n");
 
-    for (i = num1; i < num2; i++)
+    for (int i = num1; i < num2; i++)
 
     {
 
