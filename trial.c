@@ -36,8 +36,7 @@ void main()
 
     }
 
-    printf("\n Number of integers divisible by 5 between %d and %d = 
-           %d\n", num1, num2, count);
+    printf("\n Number of integers divisible by 5 between %d and %d =  %d\n", num1, num2, count);
 
     printf("Sum of all integers that are divisible by 5 = %d\n", sum);
 
